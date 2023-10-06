@@ -12,4 +12,4 @@
 ### *) SJF (Shortest Job First) 
 
 
-### *) HRRN (Highest Response Ratio Next) 
+### *) HRRN (Highest Response Ratio Next)
